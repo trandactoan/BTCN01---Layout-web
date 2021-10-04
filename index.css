@@ -1,0 +1,57 @@
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+.smallFontSize {
+  font-size: small;
+}
+.bigFontSize {
+  font-size: larger;
+  font-weight: bold;
+}
+.white {
+  color: white;
+}
+
+.red {
+  color: red;
+}
+.orange {
+  color: orange;
+}
+.bold {
+  font-weight: bold;
+}
+.blackBackground {
+  background-color: black;
+}
+.greyBackground {
+  background-color: grey;
+}
+
+.container {
+  width: 960px;
+  max-width: 960px;
+  border: solid 1px gray;
+}
+.noneStyleList {
+  list-style: none;
+}
+.btn {
+  border-radius: 30px;
+  border: solid 3px gray;
+}
+.purchaseBtn {
+  background-color: orange;
+}
+.centerContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#feedbackFromCustomer {
+  border-style: solid;
+  border-width: medium;
+  border-color: gray;
+  padding: 20px;
+}
